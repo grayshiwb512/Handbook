@@ -1,0 +1,6 @@
+site_name: 'Handbook'
+repo_url: 'http://'
+repo_name: 'GitHub'
+theme_dir: 'readthedocshm'
+pages:
+- Home: 'index.md'
